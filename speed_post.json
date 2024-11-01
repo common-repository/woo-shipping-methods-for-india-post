@@ -1,0 +1,312 @@
+{
+    "slabs": [
+        {
+            "min_weight": 0,
+            "max_weight": 200,
+            "min_distance": 0,
+            "max_distance": 200,
+            "rate": 41
+        },
+        {
+            "min_weight": 201,
+            "max_weight": 500,
+            "min_distance": 0,
+            "max_distance": 200,
+            "rate": 59
+        },
+        {
+            "min_weight": 501,
+            "max_weight": 1000,
+            "min_distance": 0,
+            "max_distance": 200,
+            "rate": 77
+        },
+        {
+            "min_weight": 1001,
+            "max_weight": 1500,
+            "min_distance": 0,
+            "max_distance": 200,
+            "rate": 94
+        },
+        {
+            "min_weight": 1501,
+            "max_weight": 2000,
+            "min_distance": 0,
+            "max_distance": 200,
+            "rate": 112
+        },
+        {
+            "min_weight": 2001,
+            "max_weight": 2500,
+            "min_distance": 0,
+            "max_distance": 200,
+            "rate": 130
+        },
+        {
+            "min_weight": 2501,
+            "max_weight": 3000,
+            "min_distance": 0,
+            "max_distance": 200,
+            "rate": 148
+        },
+        {
+            "min_weight": 3001,
+            "max_weight": 3500,
+            "min_distance": 0,
+            "max_distance": 200,
+            "rate": 165
+        },
+        {
+            "min_weight": 3501,
+            "max_weight": 4000,
+            "min_distance": 0,
+            "max_distance": 200,
+            "rate": 183
+        },
+        {
+            "min_weight": 4001,
+            "max_weight": 4500,
+            "min_distance": 0,
+            "max_distance": 200,
+            "rate": 201
+        },
+        {
+            "min_weight": 4501,
+            "max_weight": 5000,
+            "min_distance": 0,
+            "max_distance": 200,
+            "rate": 218
+        },
+        {
+            "min_weight": 0,
+            "max_weight": 200,
+            "min_distance": 201,
+            "max_distance": 1000,
+            "rate": 47
+        },
+        {
+            "min_weight": 201,
+            "max_weight": 500,
+            "min_distance": 201,
+            "max_distance": 1000,
+            "rate": 71
+        },
+        {
+            "min_weight": 501,
+            "max_weight": 1000,
+            "min_distance": 201,
+            "max_distance": 1000,
+            "rate": 106
+        },
+        {
+            "min_weight": 1001,
+            "max_weight": 1500,
+            "min_distance": 201,
+            "max_distance": 1000,
+            "rate": 142
+        },
+        {
+            "min_weight": 1501,
+            "max_weight": 2000,
+            "min_distance": 201,
+            "max_distance": 1000,
+            "rate": 177
+        },
+        {
+            "min_weight": 2001,
+            "max_weight": 2500,
+            "min_distance": 201,
+            "max_distance": 1000,
+            "rate": 212
+        },
+        {
+            "min_weight": 2501,
+            "max_weight": 3000,
+            "min_distance": 201,
+            "max_distance": 1000,
+            "rate": 248
+        },
+        {
+            "min_weight": 3001,
+            "max_weight": 3500,
+            "min_distance": 201,
+            "max_distance": 1000,
+            "rate": 283
+        },
+        {
+            "min_weight": 3501,
+            "max_weight": 4000,
+            "min_distance": 201,
+            "max_distance": 1000,
+            "rate": 319
+        },
+        {
+            "min_weight": 4001,
+            "max_weight": 4500,
+            "min_distance": 201,
+            "max_distance": 1000,
+            "rate": 354
+        },
+        {
+            "min_weight": 4501,
+            "max_weight": 5000,
+            "min_distance": 201,
+            "max_distance": 1000,
+            "rate": 389
+        },
+        {
+            "min_weight": 0,
+            "max_weight": 200,
+            "min_distance": 1001,
+            "max_distance": 2000,
+            "rate": 71
+        },
+        {
+            "min_weight": 201,
+            "max_weight": 500,
+            "min_distance": 1001,
+            "max_distance": 2000,
+            "rate": 94
+        },
+        {
+            "min_weight": 501,
+            "max_weight": 1000,
+            "min_distance": 1001,
+            "max_distance": 2000,
+            "rate": 142
+        },
+        {
+            "min_weight": 1001,
+            "max_weight": 1500,
+            "min_distance": 1001,
+            "max_distance": 2000,
+            "rate": 189
+        },
+        {
+            "min_weight": 1501,
+            "max_weight": 2000,
+            "min_distance": 1001,
+            "max_distance": 2000,
+            "rate": 236
+        },
+        {
+            "min_weight": 2001,
+            "max_weight": 2500,
+            "min_distance": 1001,
+            "max_distance": 2000,
+            "rate": 283
+        },
+        {
+            "min_weight": 2501,
+            "max_weight": 3000,
+            "min_distance": 1001,
+            "max_distance": 2000,
+            "rate": 330
+        },
+        {
+            "min_weight": 3001,
+            "max_weight": 3500,
+            "min_distance": 1001,
+            "max_distance": 2000,
+            "rate": 378
+        },
+        {
+            "min_weight": 3501,
+            "max_weight": 4000,
+            "min_distance": 1001,
+            "max_distance": 2000,
+            "rate": 425
+        },
+        {
+            "min_weight": 4001,
+            "max_weight": 4500,
+            "min_distance": 1001,
+            "max_distance": 2000,
+            "rate": 472
+        },
+        {
+            "min_weight": 4501,
+            "max_weight": 5000,
+            "min_distance": 1001,
+            "max_distance": 2000,
+            "rate": 519
+        },
+        {
+            "min_weight": 0,
+            "max_weight": 200,
+            "min_distance": 2001,
+            "max_distance": 5000,
+            "rate": 83
+        },
+        {
+            "min_weight": 201,
+            "max_weight": 500,
+            "min_distance": 2001,
+            "max_distance": 5000,
+            "rate": 106
+        },
+        {
+            "min_weight": 501,
+            "max_weight": 1000,
+            "min_distance": 2001,
+            "max_distance": 5000,
+            "rate": 165
+        },
+        {
+            "min_weight": 1001,
+            "max_weight": 1500,
+            "min_distance": 2001,
+            "max_distance": 5000,
+            "rate": 224
+        },
+        {
+            "min_weight": 1501,
+            "max_weight": 2000,
+            "min_distance": 2001,
+            "max_distance": 5000,
+            "rate": 283
+        },
+        {
+            "min_weight": 2001,
+            "max_weight": 2500,
+            "min_distance": 2001,
+            "max_distance": 5000,
+            "rate": 342
+        },
+        {
+            "min_weight": 2501,
+            "max_weight": 3000,
+            "min_distance": 2001,
+            "max_distance": 5000,
+            "rate": 401
+        },
+        {
+            "min_weight": 3001,
+            "max_weight": 3500,
+            "min_distance": 2001,
+            "max_distance": 5000,
+            "rate": 460
+        },
+        {
+            "min_weight": 3501,
+            "max_weight": 4000,
+            "min_distance": 2001,
+            "max_distance": 5000,
+            "rate": 519
+        },
+        {
+            "min_weight": 4001,
+            "max_weight": 4500,
+            "min_distance": 2001,
+            "max_distance": 5000,
+            "rate": 578
+        },
+        {
+            "min_weight": 4501,
+            "max_weight": 5000,
+            "min_distance": 2001,
+            "max_distance": 5000,
+            "rate": 637
+        }
+    ]
+}
